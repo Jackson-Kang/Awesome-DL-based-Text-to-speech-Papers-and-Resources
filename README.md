@@ -37,7 +37,7 @@ Various Text-to-speech (TTS) papers based on Deep-learning
 * **Monotonic Attention** (C. Raffel et. al., Jun. 2017., Google Brain, [arxiv](https://arxiv.org/pdf/1704.00784.pdf))
 * **Monotonic Chunkwise Attention** (C.C. Chiu et. al., Dec. 2017., Google Brain, [arxiv](https://arxiv.org/pdf/1712.05382.pdf))
 * **Stepwise Monotonic Attention** (M. He et. al., Jun. 2019., Microsoft, [arxiv](https://arxiv.org/pdf/1906.00672.pdf)) 
-* ** Location-relative Attention Mechanisms for Robust Long-form Speech Synthesis** (E. Battenberg et. al., Oct. 2019., Google, [arxiv](https://arxiv.org/pdf/1910.10288.pdf)) 
+* **Location-relative Attention Mechanisms for Robust Long-form Speech Synthesis** (E. Battenberg et. al., Oct. 2019., Google, [arxiv](https://arxiv.org/pdf/1910.10288.pdf)) 
 
 
 ### [Training Algorithm]
