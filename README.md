@@ -60,8 +60,8 @@ Various Text-to-speech (TTS) papers based on Deep-learning
 
 ### [Generative Adversarial Network]
 * **WaveGAN** (C.Donahue et. al., Feb. 2018., UCSD, [arxiv](https://arxiv.org/pdf/1802.04208.pdf))
-* **Parallel WaveGAN** (R. Yamamoto et. al., Oct. 2019., Naver, [arxiv](https://arxiv.org/pdf/1910.11480.pdf))
 * **GAN-TTS** (M. Binkowski, Sep. 2019., Google, [arxiv](https://openreview.net/pdf?id=r1gfQgSFDr))
+* **Parallel WaveGAN** (R. Yamamoto et. al., Oct. 2019., Naver, [arxiv](https://arxiv.org/pdf/1910.11480.pdf))
 ---
 
 ## Style Modeling
@@ -73,6 +73,10 @@ Various Text-to-speech (TTS) papers based on Deep-learning
 
 ### [Generative Adversarial Network]
 * **TTS-GAN** (S. Ma et. al., Apr. 2019., Microsoft, [paper](https://openreview.net/pdf?id=ByzcS3AcYX))
+* **Learning to Speak Fluently in a Foreign Language: Multilingual Speech Synthesis and Cross-Language Voice Cloning** (Y. Zhang et. al., Jul. 2019., Google, [arxiv](https://arxiv.org/pdf/1907.04448.pdf)) 
+* **Disentangling Correlated Speaker and Noise for Speech Synthesis via Data Augmentation and Adversarial Factorization** (W.N. Hsu et. al., Sep. 2019., Google, [paper](https://openreview.net/pdf?id=Bkg9ZeBB37))
+### [Mutual Information]
+* **Unsupervised Style and Content Separation by Minimizing Mutual Information for Speech Synthesis**  (T.Y. Hu et. al., Mar. 2020., CMU & Apple, [arxiv](https://arxiv.org/pdf/2003.06227.pdf))
 
 ### [Data-Efficient]
 * **Semi-supervised Training for Improving Data Efficiency in End-to-end Speech Synthesis** (Y.A. Chung et. al., Aug. 2018., MIT & Google, [arxiv](https://arxiv.org/pdf/1808.10128.pdf))
