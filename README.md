@@ -54,6 +54,7 @@ Various Text-to-speech (TTS) papers based on Deep-learning
 
 ### [Inverse Autoregressive Flow Model]
 * **Parallel WaveNet** (A. V. Oord et. al., Nov. 2017., Deep Mind, [arxiv](https://arxiv.org/pdf/1711.10433.pdf))
+* **ClariNet** (W. Ping et. al., Jul. 2018., Baidu, [arxiv](https://arxiv.org/pdf/1807.07281.pdf))
 * **WaveGlow** (R. Prenger et. al., Nov. 2018., NVIDIA, [arxiv](https://arxiv.org/pdf/1811.00002.pdf))
 * **FlowWaveNet** (S. Kim et. al., Nov. 2018., SNU, [arxiv](https://arxiv.org/pdf/1811.02155.pdf))
 
