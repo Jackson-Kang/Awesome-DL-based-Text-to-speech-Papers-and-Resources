@@ -11,13 +11,13 @@ Various Text-to-speech (TTS) papers based on Deep-learning
 
 * **Char2Wav** (J. Soleto et. al., Feb. 2017., Motreal., [paper](https://mila.quebec/wp-content/uploads/2017/02/end-end-speech.pdf))
 * **Tacotron** (Y. Wang et. al., Mar. 2017., Google, [arxiv](https://arxiv.org/pdf/1703.10135.pdf))
-* **Tacotron 2** (H. Tachibana et.al., Dec. 2017., Google, [arxiv](https://arxiv.org/pdf/1710.08969.pdf))
+* **Tacotron 2** (J. Shen et.al., Dec. 2017., Google, [arxiv](https://arxiv.org/pdf/1712.05884.pdf))
 
 
 
 #### **CNN**
-* **Deep Voice 3** (W.Ping et. al., Oct. 2017., Baidu, [arxiv](https://arxiv.org/pdf/1710.07654.pdf))
-* **Deep Convolutional Text-to-speech** (J. Shen et.al., Oct. 2017., [arxiv](https://arxiv.org/pdf/1710.08969.pdf))
+* **Deep Voice 3** (W. Ping et. al., Oct. 2017., Baidu, [arxiv](https://arxiv.org/pdf/1710.07654.pdf))
+* **Deep Convolutional Text-to-speech** (H. Tachibana et. al., Oct. 2017., [arxiv](https://arxiv.org/pdf/1710.08969.pdf))
 
 
 
@@ -75,7 +75,7 @@ Various Text-to-speech (TTS) papers based on Deep-learning
 ### [Generative Adversarial Network]
 * **TTS-GAN** (S. Ma et. al., Apr. 2019., Microsoft, [paper](https://openreview.net/pdf?id=ByzcS3AcYX))
 * **Learning to Speak Fluently in a Foreign Language: Multilingual Speech Synthesis and Cross-Language Voice Cloning** (Y. Zhang et. al., Jul. 2019., Google, [arxiv](https://arxiv.org/pdf/1907.04448.pdf)) 
-* **Disentangling Correlated Speaker and Noise for Speech Synthesis via Data Augmentation and Adversarial Factorization** (W.N. Hsu et. al., Sep. 2019., Google, [paper](https://openreview.net/pdf?id=Bkg9ZeBB37))
+* **Disentangling Correlated Speaker and Noise for Speech Synthesis via Data Augmentation and Adversarial Factorization** (W. N. Hsu et. al., Sep. 2019., Google, [paper](https://openreview.net/pdf?id=Bkg9ZeBB37))
 ### [Mutual Information]
 * **Unsupervised Style and Content Separation by Minimizing Mutual Information for Speech Synthesis**  (T.Y. Hu et. al., Mar. 2020., CMU & Apple, [arxiv](https://arxiv.org/pdf/2003.06227.pdf))
 
