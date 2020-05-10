@@ -44,6 +44,9 @@ Various Text-to-speech (TTS) papers based on Deep-learning
 * **A New GAN-based Training Algorithm** (H. Guo. et. al., Apr. 2019., Microsoft, [arxiv](https://arxiv.org/pdf/1904.04775.pdf))
 
 
+### [Data-Efficient]
+* **Semi-supervised Training for Improving Data Efficiency in End-to-end Speech Synthesis** (Y.A. Chung et. al., Aug. 2018., MIT & Google, [arxiv](https://arxiv.org/pdf/1808.10128.pdf))
+
 
 ----
 ## Neural Vocoder
@@ -78,6 +81,3 @@ Various Text-to-speech (TTS) papers based on Deep-learning
 * **Disentangling Correlated Speaker and Noise for Speech Synthesis via Data Augmentation and Adversarial Factorization** (W. N. Hsu et. al., Sep. 2019., Google, [paper](https://openreview.net/pdf?id=Bkg9ZeBB37))
 ### [Mutual Information]
 * **Unsupervised Style and Content Separation by Minimizing Mutual Information for Speech Synthesis**  (T.Y. Hu et. al., Mar. 2020., CMU & Apple, [arxiv](https://arxiv.org/pdf/2003.06227.pdf))
-
-### [Data-Efficient]
-* **Semi-supervised Training for Improving Data Efficiency in End-to-end Speech Synthesis** (Y.A. Chung et. al., Aug. 2018., MIT & Google, [arxiv](https://arxiv.org/pdf/1808.10128.pdf))
