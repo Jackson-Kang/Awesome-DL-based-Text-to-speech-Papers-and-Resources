@@ -51,6 +51,7 @@ Various Text-to-speech (TTS) papers based on Deep-learning
 
 ### [Data-Efficient]
 * **Semi-supervised Training for Improving Data Efficiency in End-to-end Speech Synthesis** (Y.A. Chung et. al., Aug. 2018., MIT & Google, [arxiv](https://arxiv.org/pdf/1808.10128.pdf))
+* **Sample Efficient Adaptive Text-to-Speech** (Y. Chen., Jan. 2019., DeepMind & Google, [arxiv](https://arxiv.org/pdf/1809.10460.pdf))
 
 
 ----
