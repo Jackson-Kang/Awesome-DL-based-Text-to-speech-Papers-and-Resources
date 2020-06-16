@@ -32,6 +32,11 @@ Various Text-to-speech (TTS) papers based on Deep-learning
 #### **Transformer**
 * **Fast Speech** (Y. Ren et. al., May. 2019., Microsoft, [arxiv](https://arxiv.org/pdf/1905.09263.pdf))
 * **Align TTS** (Z. Zeng et. al., Mar. 2020., Ping An Tech., [arxiv](https://arxiv.org/pdf/2003.01950.pdf))
+* **Fast Speech 2** (Y. Ren et. al., Jun. 2020., Microsoft, [arxiv](https://arxiv.org/pdf/2006.04558.pdf))
+
+### [Graph Neural Networks]
+* **Graph TTS** (A. Sun et. al., Mar. 2020., Ping An Tech., [arxiv](https://arxiv.org/pdf/2003.01924.pdf))
+
 
 ### [Attention Improvement]
 * **Monotonic Attention** (C. Raffel et. al., Jun. 2017., Google Brain, [arxiv](https://arxiv.org/pdf/1704.00784.pdf))
