@@ -6,7 +6,7 @@ Various Text-to-speech (TTS) papers and resources based on Deep-learning
 ## Data
 
 ### [Melspectrogram]
-* **Speech Technology: A Practical Introduction** (K. Prahallad., CMU, [slide](http://www.speech.cs.cmu.edu/15-492/slides/03_mfcc.pdf), [video](https://archive.org/details/SpectrogramCepstrumAndMel-frequency_636522))
+* **Speech Technology: A Practical Introduction, Topic: Spectrogram, Cepstrum and Mel-Frequency Analysis** (K. Prahallad., CMU, [slide](http://www.speech.cs.cmu.edu/15-492/slides/03_mfcc.pdf), [video](https://archive.org/details/SpectrogramCepstrumAndMel-frequency_636522))
 
 ----
 ## Mel-spectrogram Generator
