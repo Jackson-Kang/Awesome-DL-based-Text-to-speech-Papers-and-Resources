@@ -93,3 +93,55 @@ Various Text-to-speech (TTS) papers and resources based on Deep-learning
 * **Disentangling Correlated Speaker and Noise for Speech Synthesis via Data Augmentation and Adversarial Factorization** (W. N. Hsu et. al., Sep. 2019., Google, [paper](https://openreview.net/pdf?id=Bkg9ZeBB37))
 ### [Mutual Information]
 * **Unsupervised Style and Content Separation by Minimizing Mutual Information for Speech Synthesis**  (T.Y. Hu et. al., Mar. 2020., CMU & Apple, [arxiv](https://arxiv.org/pdf/2003.06227.pdf))
+
+
+
+## Dataset
+### [English]
+
+#### **ASR**
+  * LibriSoeech dataset ([paper](http://www.danielpovey.com/files/2015_icassp_librispeech.pdf), [download](https://www.openslr.org/12)) (V. Panayotov et al., 2015)
+    - total 2484 speakers, 1000+ hours
+  * VocCeleb1 dataset ([paper](https://www.robots.ox.ac.uk/~vgg/publications/2017/Nagrani17/nagrani17.pdf) [download](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/)) (A. Nagrani et al., 2017)
+    - 151,516 utterances, 1251 speakers, 352 hours
+  * VoxCeleb2 dataset ([paper](https://www.robots.ox.ac.uk/~vgg/publications/2018/Chung18a/chung18a.pdf) [download](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/)) (J. S> Chung et al., 2018)
+    - 1,128,246 utterances, 6112 speakers, 2442 hours
+
+#### **TTS**
+  * LJSpeech dataset [download](https://keithito.com/LJ-Speech-Dataset/) (Keith Ito and Linda Johnson, 2017)
+    - single female speaker, 13100 samples, approximately 24 hours
+  * CSTR VCTK Corpus ([download](http://www.udialogue.org/download/cstr-vctk-corpus.html) (C. Veaux et. al.))
+    - 109 english speakers with various accents, 400 speeches per speaker
+  * Blizzard dataset [download](https://www.cstr.ed.ac.uk/projects/blizzard/data.html)
+
+
+### [Korean]
+#### **ASR**
+* 한국어 및 영어 음향모델 훈련용 음성 데이터 [download](https://aiopen.etri.re.kr/service_dataset.php?category=voice) (ETRI)
+  - (Korean speech) 50 speakers * 100 speeches/speaker (total 5,000 speech samples) 
+  - (English speech **pronounciated by Korean**) 50 speakers * 100 speech (total 5,000 speech samples)
+* 음성인터페이스 개발을 위한 어린이 음성 데이터 [download](https://aiopen.etri.re.kr/service_dataset.php?category=voice) (ETRI)
+  - 50 speakers * 100 speeches/speaker * 3 environments (total 16,200 speech samples)
+  - speaker info: elementary school students (from 1st to 4th grade)
+  - recorded from IPhone5, Samsung GalaxyS4, and microphones
+* ClovaCall datset ([paper](https://arxiv.org/pdf/2004.09367.pdf) [download](https://github.com/clovaai/ClovaCall)) (Naver Corp.)
+  - 140000+ speeches, 211+ hours of noisy and clean speech
+* KSponSpeech [download](https://aihub.or.kr/aidata/105/download) (ETRI)
+  - 2000 speakers, 1000+ hours, various topics(life, shopping, hobby, weather, etc..)
+* Korean Read Speech Corpus (국립국어원)
+  - 8 speakers, 120+ hours
+* Zeroth-Korean [download](http://www.openslr.org/40/) (Lucas Jo and Wonkyum Lee)
+  - 115 speakers, 52.8 hours, 22720 utterances in total
+* Pansori TED x KR Corpus ([paper](https://arxiv.org/ftp/arxiv/papers/1812/1812.09798.pdf) [download](https://github.com/yc9701/pansori-tedxkr-corpus)) (Y. Choi and B. Lee) 
+  - 3 hours, 41 speakers
+
+#### **TTS**
+* Korean Single Speaker (KSS) Speech Dataset [download](https://www.kaggle.com/bryanpark/korean-single-speaker-speech-dataset) (K. Park)
+  - single female speaker, 12853 samples, 12+ hours
+* 감정 음성합성 데이터셋 [download](https://aihub.or.kr/keti_data_board/expression) ((주) 아크릴)
+  - single female speaker, 7 emotion (neutral, sad, fear, happy, angry, disgusting, surprise), total 22,000 samples (about 3,000 samples per emotion)
+*  EmotionTTS-Open-DB dataset [download](https://github.com/emotiontts/emotiontts_open_db/tree/master/Dataset/SpeechCorpus) (KAIST and (주) 셀바스AI)
+  - single-speaker, multi-speaker, and multi-speaker-multi-emotion dataset 
+* 카이스트 오디오북 데이터셋 [download](https://aihub.or.kr/open_data/21292) (KAIST)
+  - 58559 speeches, 72+ hours, 13 speakers
+  - various reading materials (news, novel, etc..)
