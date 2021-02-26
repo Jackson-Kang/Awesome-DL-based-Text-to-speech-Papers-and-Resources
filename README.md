@@ -140,7 +140,7 @@ Various Text-to-speech (TTS) papers and resources based on Deep-learning
   - single female speaker, 12853 samples, 12+ hours
 * 감정 음성합성 데이터셋 ([download](https://aihub.or.kr/keti_data_board/expression)) ((주) 아크릴)
   - single female speaker, 7 emotion (neutral, sad, fear, happy, angry, disgusting, surprise), total 22,000 samples (about 3,000 samples per emotion)
-*  EmotionTTS-Open-DB dataset ([download](https://github.com/emotiontts/emotiontts_open_db/tree/master/Dataset/SpeechCorpus)) (KAIST and (주) 셀바스AI)
+* EmotionTTS-Open-DB dataset ([download](https://github.com/emotiontts/emotiontts_open_db/tree/master/Dataset/SpeechCorpus)) (KAIST and (주) 셀바스AI)
   - single-speaker, multi-speaker, and multi-speaker-multi-emotion dataset 
 * 카이스트 오디오북 데이터셋 ([download](https://aihub.or.kr/open_data/21292)) (KAIST)
   - 58559 speeches, 72+ hours, 13 speakers
