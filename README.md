@@ -117,31 +117,31 @@ Various Text-to-speech (TTS) papers and resources based on Deep-learning
 
 ### [Korean]
 #### **ASR**
-* 한국어 및 영어 음향모델 훈련용 음성 데이터 [download](https://aiopen.etri.re.kr/service_dataset.php?category=voice) (ETRI)
+* 한국어 및 영어 음향모델 훈련용 음성 데이터 ([download](https://aiopen.etri.re.kr/service_dataset.php?category=voice)) (ETRI)
   - (Korean speech) 50 speakers * 100 speeches/speaker (total 5,000 speech samples) 
   - (English speech **pronounciated by Korean**) 50 speakers * 100 speech (total 5,000 speech samples)
-* 음성인터페이스 개발을 위한 어린이 음성 데이터 [download](https://aiopen.etri.re.kr/service_dataset.php?category=voice) (ETRI)
+* 음성인터페이스 개발을 위한 어린이 음성 데이터 ([download](https://aiopen.etri.re.kr/service_dataset.php?category=voice)) (ETRI)
   - 50 speakers * 100 speeches/speaker * 3 environments (total 16,200 speech samples)
   - speaker info: elementary school students (from 1st to 4th grade)
   - recorded from IPhone5, Samsung GalaxyS4, and microphones
 * ClovaCall datset ([paper](https://arxiv.org/pdf/2004.09367.pdf) [download](https://github.com/clovaai/ClovaCall)) (Naver Corp.)
   - 140000+ speeches, 211+ hours of noisy and clean speech
-* KSponSpeech [download](https://aihub.or.kr/aidata/105/download) (ETRI)
+* KSponSpeech ([download](https://aihub.or.kr/aidata/105/download)) (ETRI)
   - 2000 speakers, 1000+ hours, various topics(life, shopping, hobby, weather, etc..)
-* Korean Read Speech Corpus (국립국어원)
+* Korean Read Speech Corpus ([download](https://github.com/homink/speech.ko)) (국립국어원)
   - 8 speakers, 120+ hours
-* Zeroth-Korean [download](http://www.openslr.org/40/) (Lucas Jo and Wonkyum Lee)
+* Zeroth-Korean ([download](http://www.openslr.org/40/)) (Lucas Jo and Wonkyum Lee)
   - 115 speakers, 52.8 hours, 22720 utterances in total
 * Pansori TED x KR Corpus ([paper](https://arxiv.org/ftp/arxiv/papers/1812/1812.09798.pdf) [download](https://github.com/yc9701/pansori-tedxkr-corpus)) (Y. Choi and B. Lee) 
   - 3 hours, 41 speakers
 
 #### **TTS**
-* Korean Single Speaker (KSS) Speech Dataset [download](https://www.kaggle.com/bryanpark/korean-single-speaker-speech-dataset) (K. Park)
+* Korean Single Speaker (KSS) Speech Dataset ([download](https://www.kaggle.com/bryanpark/korean-single-speaker-speech-dataset)) (K. Park)
   - single female speaker, 12853 samples, 12+ hours
-* 감정 음성합성 데이터셋 [download](https://aihub.or.kr/keti_data_board/expression) ((주) 아크릴)
+* 감정 음성합성 데이터셋 ([download](https://aihub.or.kr/keti_data_board/expression)) ((주) 아크릴)
   - single female speaker, 7 emotion (neutral, sad, fear, happy, angry, disgusting, surprise), total 22,000 samples (about 3,000 samples per emotion)
-*  EmotionTTS-Open-DB dataset [download](https://github.com/emotiontts/emotiontts_open_db/tree/master/Dataset/SpeechCorpus) (KAIST and (주) 셀바스AI)
+*  EmotionTTS-Open-DB dataset ([download](https://github.com/emotiontts/emotiontts_open_db/tree/master/Dataset/SpeechCorpus)) (KAIST and (주) 셀바스AI)
   - single-speaker, multi-speaker, and multi-speaker-multi-emotion dataset 
-* 카이스트 오디오북 데이터셋 [download](https://aihub.or.kr/open_data/21292) (KAIST)
+* 카이스트 오디오북 데이터셋 ([download](https://aihub.or.kr/open_data/21292)) (KAIST)
   - 58559 speeches, 72+ hours, 13 speakers
   - various reading materials (news, novel, etc..)
